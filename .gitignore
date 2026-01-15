@@ -1,0 +1,7 @@
+cmake-build-debug
+main.dSYM
+main
+out
+CMakeLists.txt
+.idea
+.DS_Store
